@@ -35,6 +35,8 @@ Currently I'm trying to:
   - and maybe look into machine learning (though I haven't done much with learning that so far)
 </p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirtarragon&show_icons=true" alt="sirtarragon" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirtarragon&layout=compact&hide=html" alt="sirtarragon" /></p>
