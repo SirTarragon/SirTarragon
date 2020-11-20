@@ -39,10 +39,15 @@ Very simple interests.
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sirtarragon&show_icons=true" alt="sirtarragon" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirtarragon&layout=compact&hide=html" alt="sirtarragon" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
 </details>
 <br>
 <br>
-<br>
+
 <hr>
 
 <p align="center">
