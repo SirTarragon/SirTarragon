@@ -41,6 +41,8 @@ Very simple interests.
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirtarragon&layout=compact&hide=html" alt="sirtarragon" /></p>
 </details>
 <br>
+<br>
+<br>
 <hr>
 
 <p align="center">
