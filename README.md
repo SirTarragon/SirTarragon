@@ -55,8 +55,10 @@ Very simple interests.
 
 <p align="center">
 <a href="https://instagram.com/sirtarragon" target="blank"><img align="center" src="./Images/SocialMedia/instagram.svg" alt="My Instagram" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/tylerpease1/" target="blank"><img align="center" src="./Images/SocialMedia/linkedin.svg" alt="My LinkedIn" height="30" width="30" /></a>
 <a href="https://twitter.com/SirTarragon" target="blank"><img align="center" src="./Images/SocialMedia/twitter.svg" alt="My Twitter" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/tylerpease1/" target="blank"><img align="center" src="./Images/SocialMedia/linkedin.svg" alt="My LinkedIn" height="30" width="30" /></a>
+<a href="https://dev.to/sirtarragon" target="blank"><img align="center" src="./Images/SocialMedia/dev-dot-to.svg" alt="My Dev.to" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/11111349" target="blank"><img align="center" src="./Images/SocialMedia/stackoverflow.svg" alt="My StackOverflow" height="30" width="30" /></a>
 </p>
 <br>
 <p align="center"> 
