@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <p align="center"><b>👋 My name is Tyler Pease. I'm a CS student at FSU.</b></p>
-
+<br>
+<hr>
+<br>
 <p align="left" name="body">
 I've always been interested in computers as a kid, and unabashadely will state it's because of video games. Sadly I didn't make my decision on what to pursue professionally until I got into college. Really wasn't that sure of myself as a kid, honestly bumbled along with different interests like Creative Writing and History. For a short while it was also Music, I used to play the Euphonium in middle school and high school band, and loved my time in the marching band.
 
