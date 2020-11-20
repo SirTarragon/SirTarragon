@@ -35,7 +35,7 @@ Very simple interests.
 </p>
 <br>
 
-<details>
+<details = "GitHub Stats">
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sirtarragon&show_icons=true" alt="sirtarragon" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirtarragon&layout=compact&hide=html" alt="sirtarragon" /></p>
