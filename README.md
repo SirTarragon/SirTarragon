@@ -1,3 +1,4 @@
+<!-- Note to self, I might have to play around with this further to see what I can end up doing with it. Maybe make a really sick profile/readme.md? -->
 <!--
 **SirTarragon/SirTarragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +34,9 @@ Very simple interests.
   - come up with attainable project ideas (and not make myself drown in the process)
 </p>
 
-<h>
+<hr>
+
+<!-- I'd like to thank w3bsme's own profile readme.md as I didn't know about these apps -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirtarragon&show_icons=true" alt="sirtarragon" /></p>
 
