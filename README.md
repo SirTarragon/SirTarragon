@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 
 <p align="left" name="body">
 I've always been interested in computers as a kid, and unabashadely will state it's because of video games. Sadly I didn't make my decision on what to pursue professionally until I got into college. Really wasn't that sure of myself as a kid, honestly bumbled along with different interests like Creative Writing and History. For a short while it was also Music, I used to play the Euphonium in middle school and high school band, and loved my time in the marching band.
-<br> 
+
 I started thinking more about programming after taking a HTML course at my high school (Thanks Mr. Karmanos!). I truly came to the decision after taking Intro to C++ at TCC, my success at the class motivated me to push further into programming. I always had the issue of keeping my motivation during self-learning as a kid, and I greatly appreciate that it changed.
-<br>
+
 I'm trying to do my best juggling with my time and interests:
-<br>
+
   - learning in and outside of school
   - practicing programming
   - finding time to relax and just game
-<br>
+
 Very simple interests.
-<br>
+
 🔭 Currently I'm trying to:
-<br>
+
   - 🌱 learn and pass my CS courses and other courses
   - 🌱 learn how to use Unity/gamedev
   - 🌱 and maybe look into machine learning (though I haven't done much with learning that so far)
