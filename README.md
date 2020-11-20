@@ -39,7 +39,8 @@ Very simple interests.
   - come up with attainable project ideas (and not make myself drown in the process by overreaching)
 </p>
 <br>
-<details = "GitHub Stats">
+<details name="GitHub Stats">
+<summary>Some GitHub Stats</summary>
 <p>These are my current GitHub stats, they are not all correct as I do have a number of private repositories.</p>
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sirtarragon&show_icons=true" alt="sirtarragon" /></p>
