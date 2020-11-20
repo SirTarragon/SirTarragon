@@ -25,6 +25,7 @@ I started thinking more about programming after taking a HTML course at my high 
 I'm trying to do my best juggling with my time and interests:
 
   - learning in and outside of school
+  - studying
   - practicing programming
   - finding time to relax and just game
 
