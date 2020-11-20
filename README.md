@@ -33,18 +33,23 @@ Very simple interests.
   - 🌱 and maybe look into machine learning (though I haven't done much with learning that so far)
   - come up with attainable project ideas (and not make myself drown in the process)
 </p>
+<br>
 
-<hr>
-
-<!-- I'd like to thank w3bsme's own profile readme.md as I didn't know about these apps -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirtarragon&show_icons=true" alt="sirtarragon" /></p>
+<details>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sirtarragon&show_icons=true" alt="sirtarragon" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirtarragon&layout=compact&hide=html" alt="sirtarragon" /></p>
+</details>
+<br>
+<hr>
 
 <p align="center">
-<a href="https://instagram.com/sirtarragon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sirtarragon" height="30" width="30" /></a>
+<a href="https://instagram.com/sirtarragon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/tylerpease1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://twitter.com/SirTarragon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="LinkedIn" height="30" width="30" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirtarragon" alt="sirtarragon" /> </p>
+<br>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sirtarragon" alt="Visitor count to my page"/> 
+</p>
 
