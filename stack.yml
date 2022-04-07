@@ -1,0 +1,6 @@
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: '#3C78A9'
+  projects:
+    - url: https://github.com/SirTarragon/PythonChess
