@@ -51,7 +51,7 @@ Very simple interests.
 <br>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sirtarragon" alt="Visitor count to my page"/> 
-  <a href="https://wakatime.com/@06ef5b88-2a39-42cd-a4fb-eed6b2c84bec"><img src="https://wakatime.com/badge/user/06ef5b88-2a39-42cd-a4fb-eed6b2c84bec.svg"/></a>
+  <a href="https://wakatime.com/@06ef5b88-2a39-42cd-a4fb-eed6b2c84bec"><img src="https://wakatime.com/badge/user/06ef5b88-2a39-42cd-a4fb-eed6b2c84bec.svg" alt="Total time coded since Apr 7 2022" /></a>
 </p>
 <!--
 **SirTarragon/SirTarragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
