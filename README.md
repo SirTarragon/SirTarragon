@@ -44,6 +44,7 @@ Very simple interests.
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![PythonChess](https://img.shields.io/static/v1?label=&message=PythonChess&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/SirTarragon/PythonChess) |
+| [![C Sharp](https://img.shields.io/static/v1?label=&message=C%20Sharp&color=9B4F97&logo=csharp&logoColor=FFFFFF)](https://dotnet.microsoft.com/en-us/languages/csharp/) | [![fsu-fall2022-capstone/Project-Group-4](https://img.shields.io/static/v1?label=&message=Project-Group-4&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fsu-fall2022-capstone/Project-Group-4) [![Tasker](https://img.shields.io/static/v1?label=&message=Tasker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/SirTarragon/Tasker) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 <hr>
