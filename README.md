@@ -10,7 +10,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <p align="left" name="body">
 🎓&nbsp;Bachelors of Science, BS - Computer Science; Florida State University
-To Update
+
 </p>
 <br>
 <details name="GitHub Stats">
